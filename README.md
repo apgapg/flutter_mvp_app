@@ -1,6 +1,7 @@
 # flutter_mvp_app
 
 A Flutter application using MVP architecture.
+
 Original blog: https://medium.com/@ayushpguptaapg/implementing-mvp-arch-in-flutter-app-1d67f695eab1
 
 This app fetches a text from network and displays it in a text widget.
